@@ -1,6 +1,6 @@
 # GTM Tracking Skill
 
-Arbeitsregeln, Architektur-Standards und ein Fallstricke-Katalog für alle Themen rund um Google Tag Manager (Web und Server-Side), Stape, GA4, Consent Mode v2, Meta CAPI, TikTok Events API sowie Google Ads und Microsoft Ads Conversion Tracking.
+Arbeitsregeln, Architektur-Standards und ein Fallstricke-Katalog für alle Themen rund um Google Tag Manager (Web- und Server-Side mit Stape), GA4, Consent Mode v2, Meta CAPI, LinkedIn CAPI, TikTok Events API sowie Google Ads und Microsoft Ads Conversion Tracking.
 
 Der Kern ist kein allgemeines Tutorial, sondern ein Regelwerk aus der Praxis: Es legt fest, in welcher Reihenfolge widersprüchliche Signale zu bewerten sind (z. B. was zählt mehr, ein Container-Export oder die Doku eines Tag-Templates), wie vor jedem Umbau eine Bestandsaufnahme aussieht, welche Zielarchitektur für webGTM- und sGTM-Setups gilt, und welche real aufgetretenen Fehler bei Tracking-Implementierungen wiederkehren.
 
