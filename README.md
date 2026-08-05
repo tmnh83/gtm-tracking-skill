@@ -1,4 +1,4 @@
-# GTM Tracking Skill
+# GTM Tracking Skill für Claude
 
 Arbeitsregeln, Architektur-Standards und ein Fallstricke-Katalog für alle Themen rund um Google Tag Manager (Web- und Server-Side mit Stape), GA4, Consent Mode v2, Meta CAPI, LinkedIn CAPI, TikTok Events API sowie Google Ads und Microsoft Ads Conversion Tracking.
 
